@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Analista%20Programador;Siempre%20Aprendiendo%20Nuevas%20Cosas;Sientete%20libre%20de%20mirar%20%F0%9F%91%80;Contáctame%20si%20lo%20necesitas%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
-
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP">via GIPHY</a></p>
 ---
 
 - Estudiante de la carrera Analista Programador en DuocUC
