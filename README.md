@@ -11,10 +11,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Analista%20Programador;Siempre%20Aprendiendo%20Nuevas%20Cosas;Sientete%20libre%20de%20mirar%20%F0%9F%91%80;Contáctame%20si%20lo%20necesitas%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
-<p align="center">
-   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmVqNDBrbzJqbGhsbGV6amRzY3lmdWh0cWRzcmVyOTlreWx6enp1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="100">
-</p>
-
 
 ---
 
