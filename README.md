@@ -72,6 +72,4 @@
 
 ------
 
-Credit: Template [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
-
-Last Edited on: 25/09/2025
+<p style="color: dimgray;">Last Edited on: 25/09/2025</p>
