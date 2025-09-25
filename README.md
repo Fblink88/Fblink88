@@ -120,7 +120,6 @@ Estudiante de la carrera Analista Programador en DuocUC
 </a>
 </div>
 
-<h5 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h5>
 
 ---
 
@@ -128,6 +127,6 @@ Estudiante de la carrera Analista Programador en DuocUC
 
 ------
 
-Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
+Credit: Template [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
 
-Last Edited on: 26/02/2025
+Last Edited on: 25/09/2025
